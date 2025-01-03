@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version Information
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4be2a21e-0393-4d55-9be4-641d48a0c026}") = "HelloWorld", "HelloWorld\HelloWorld.ilproj", "{dcf3cf34-2236-47ba-a132-128348c4cda0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{dcf3cf34-2236-47ba-a132-128348c4cda0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dcf3cf34-2236-47ba-a132-128348c4cda0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dcf3cf34-2236-47ba-a132-128348c4cda0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{dcf3cf34-2236-47ba-a132-128348c4cda0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
